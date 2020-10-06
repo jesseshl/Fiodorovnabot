@@ -50,4 +50,4 @@ def mensaje(message):
 bot.polling()
 =======
 
->>>>>>> 8ed2d2a9bd58fdaa6138174aaf26e20dd822fa7b
+
