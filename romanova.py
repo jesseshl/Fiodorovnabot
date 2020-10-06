@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import telebot
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
@@ -48,6 +47,6 @@ def mensaje(message):
 
 
 bot.polling()
-=======
+
 
 
